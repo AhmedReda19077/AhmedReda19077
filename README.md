@@ -1,5 +1,8 @@
 <h1 align="center">👋 Hi, I'm Ahmed Reda</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Clean,+Fast+%26+Responsive;Front-End+Developer;Angular+Lover;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+</p>
 
 
 <p align="center">
